@@ -43,6 +43,7 @@
 
 /* Begin PBXFileReference section */
 		590B02F7260F2C7700CDA6C7 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		590B0307260F306400CDA6C7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		596964DC260F092B0032A086 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		596964DF260F092B0032A086 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		596964E1260F092B0032A086 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -113,6 +114,7 @@
 		596964D3260F092B0032A086 = {
 			isa = PBXGroup;
 			children = (
+				590B0307260F306400CDA6C7 /* README.md */,
 				596964DE260F092B0032A086 /* Landmarks */,
 				596964F0260F092C0032A086 /* LandmarksTests */,
 				596964FB260F092C0032A086 /* LandmarksUITests */,
